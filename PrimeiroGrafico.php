@@ -35,6 +35,6 @@
     </script>
   </head>
   <body>
-    <div id="curve_chart" style="height: 400px; width: 400px"></div>
+    <div id="curve_chart" style="height: 400px; width: 900px"></div>
   </body>
 </html>

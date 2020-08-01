@@ -32,7 +32,7 @@
 
       var options = {
         title: "População das cidades",
-        width: 900,
+        
         height: 400,
         bar: {groupWidth: "95%"},
         legend: { position: "rigth"}
